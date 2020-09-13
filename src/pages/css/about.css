@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.fontchng{
+    font-family: 'Abel', cursive;
+}
+
+.para {
+    position: absolute;
+    top:50%
+} /* to position paragraph vertically*/
+
+.para:first-letter {
+    padding-left:50%
+}/* to position first line horizontally */

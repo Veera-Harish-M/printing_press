@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;800&display=swap');
+.sty{
+    margin: 20px auto;
+    margin-top:60px ;
+    width: 60% 
+}
+.bk{
+    background-image: url('../images/body-bg.jpg');
+    background-size: cover;
+    
+}
+.back{
+    background-image: url('../images/body-bg.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    position: fixed;
+    min-height: 100vh;
+    overflow: hidden;
+    font-family: 'Roboto Slab', serif !important;	
+}
+
+p{
+    font-family: 'Roboto Slab', serif ;
+}
